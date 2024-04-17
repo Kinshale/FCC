@@ -10,7 +10,6 @@ If the result will be the next day, it should show (next day) after the time. If
 
 If the function is given the optional starting day of the week parameter, then the output should display the day of the week of the result. The day of the week in the output should appear after the time and before the number of days later.
 
-
 add_time('11:43 AM', '00:20')
 # Returns: 12:03 PM
 
