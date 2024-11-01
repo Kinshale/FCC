@@ -1,2 +1,2 @@
 # FCC
-A collection of all FCC projects. 
+A collection of the FCC projects, needed for the certifications. 
