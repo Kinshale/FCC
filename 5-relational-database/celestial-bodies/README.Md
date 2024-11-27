@@ -1,2 +1,0 @@
-For this first project I'll upload the configuration files and test files as well, since it took me sometime to understand how to properly set up the FCC / Gitpod environment on my local VS-code. 
-[Coderoad Tutorial](https://raw.githubusercontent.com/freeCodeCamp/learn-celestial-bodies-database/main/tutorial.json)w
