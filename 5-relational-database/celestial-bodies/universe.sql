@@ -18,7 +18,7 @@ CREATE TABLE star (
     galaxy_id INT NOT NULL,                       
     FOREIGN KEY (galaxy_id) REFERENCES galaxy(galaxy_id) ON DELETE CASCADE
 );
-
+<
 CREATE TABLE planet (
     planet_id SERIAL PRIMARY KEY,                 
     name VARCHAR(100) NOT NULL UNIQUE,            
